@@ -28,7 +28,7 @@ This project uses environment variables to manage the API key for Google Generat
 To run the chatbot application, use the following command:
 
 ```bash
-streamlit run app.py
+streamlit run chatbot.py
 ```
 
 This will start a local Streamlit server. Open your web browser and navigate to `http://localhost:8501` to interact with the chatbot.
