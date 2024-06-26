@@ -7,8 +7,8 @@ Welcome to the **Gemini Powered ChatBot** project! This project leverages Google
 To get started, clone this repository and install the required dependencies.
 
 ```bash
-git clone https://github.com/manogyaguragai/gemini-powered-chatbot.git
-cd gemini-powered-chatbot
+git clone https://github.com/manogyaguragai/Gemini_powered_chatbot.git
+cd Gemini_powered_chatbot
 pip install -r requirements.txt
 ```
 
@@ -31,7 +31,7 @@ To run the chatbot application, use the following command:
 streamlit run chatbot.py
 ```
 
-This will start a local Streamlit server. Open your web browser and navigate to `http://localhost:8501` to interact with the chatbot.
+This will start a local Streamlit server. Click on the given link to interact with the chatbot.
 
 ## Code Overview
 
@@ -39,6 +39,6 @@ The main components of the project are as follows:
 
 - **Environment Setup**: Load environment variables using `dotenv`.
 - **API Configuration**: Configure the Google Generative AI with the provided API key.
-- **Streamlit UI**: Create a user interface with Streamlit to interact with the chatbot.
+- **Streamlit UI**: Create a user interface with Streamlit to interact with the chatbot.    
 
 ```
